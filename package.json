@@ -13,7 +13,7 @@
     "js-yaml": "^3.13.0"
   },
   "devDependencies": {
-    "@adobe/eslint-config-aio-lib-config": "^1.0.2",
+    "@adobe/eslint-config-aio-lib-config": "^1.1.0",
     "@oclif/dev-cli": "^1.22.0",
     "@oclif/plugin-help": "^2.1.6",
     "codecov": "^3.6.1",
